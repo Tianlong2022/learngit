@@ -12,5 +12,7 @@ README.txt
 file5.txt
 file3.txt
 file4.txt
-file6.txt
+.file6.txt
+.gitignore
+!file7.txt
 
